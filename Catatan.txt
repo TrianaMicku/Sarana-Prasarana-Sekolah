@@ -1,0 +1,5 @@
+Nama Aplikasi	: SARPRAS (Sarana Prasarana)
+Database	: uji_ukom
+User		: -trianamicku	(12345) -> Admin
+		  -inenovia	(12345) -> User
+		  -choraul	(12345) -> Manajemen

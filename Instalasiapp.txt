@@ -1,0 +1,14 @@
+Instalasi Aplikasi :
+
+1. hidupkan laptop atau komputer.
+2. buka xampp dan hidupkan mysql & apache (Jika belum menginstall xampp silahkan install terlebih dahulu).
+3. pindahkan file uji_ukom kedalam folder htdocs.
+4. buka web browser.
+5. ketikan url (localhost/uji_ukom).
+6. pasti akan masuk kedalam halaman landing page dan klik tombol "AYO PINJAM".
+7. dan akan masuk kedalam halaman login dan silahkan login sesuai nama pengguna dan kata sandi yang sudah terdaftar.
+8. jika login sebagai admin , anda bisa menginputkan, mengubah, menghapus data yang ada dan juga mengatur peminjaman.
+9. jika login sebagai peminjam, anda bisa meminjam sesuai barang yang dibutuhkan.
+10. jika login sebagai manajemen, anda bisa mencetak laporan data-data yang ada sebagai PDF ataupun EXCEL.dan anda juga bisa menginputkan barang.
+11. terima kasih :)
+
